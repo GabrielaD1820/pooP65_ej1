@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ca012624cbe1d5043c76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Deber1_poo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Deber1_poo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deber1_poo-Debug-4360ee560fe977e9b84f.json",
+					"name" : "Deber1_poo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Deber1_poo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deber1_poo_autogen-Debug-de583f6b815257710f64.json",
+					"name" : "Deber1_poo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Deber1_poo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deber1_poo_autogen_timestamp_deps-Debug-3413daaa205247306116.json",
+					"name" : "Deber1_poo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QT-GABY/Deber1_poo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/QT-GABY/Deber1_poo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
